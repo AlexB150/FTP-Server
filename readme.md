@@ -1,1 +1,3 @@
-## Basic FTP Server
+## FTP Server
+
+A basic FTP implementation in pure java
